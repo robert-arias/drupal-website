@@ -1,0 +1,15 @@
+name: New
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+mail_notification: ''
+_core:
+  default_config_hash: kFLSOjaWFfawAxFTZclDYQwVzpfwoxLsHWeeKzzAUVo
+uuid: ce4965a0-270c-43fd-8793-eb5d681874f6
